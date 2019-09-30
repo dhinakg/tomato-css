@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Play:400'); 
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro|Roboto');
 
 :root {
 /*  --tomato-panel-background: #fbfbfb; */
@@ -121,7 +121,7 @@ html {
 }
 
 * {
-    font-family: Play, Arial, Sans-Serif !important;
+    font-family: 'Roboto' !important;
     font-size: 14px;
   }
 
@@ -1230,6 +1230,7 @@ td#navi a.indent2:before {
 
 #termDiv table {
     width: 100%;
+    font-family: 'Anonymous Pro', 'Consolas', sans-serif;
 }
 
 #survey-msg {
